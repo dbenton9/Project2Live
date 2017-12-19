@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
+    "username": "ehc3g62nsmswktuv",
+    "password": "ol1ls2l9jrpvkekj",
     "database": "families",
-    "host": "127.0.0.1",
+    "host": "ol5tz0yvwp930510.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "port": 8889
   },
